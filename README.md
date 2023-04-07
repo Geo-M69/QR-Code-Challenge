@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](qr-code-challenge-n80ujbbtv-geo-m69.vercel.app)
+- Live Site URL: [QR Code Challenge](https://qr-code-challenge-drab.vercel.app/)
 
 ## My process
 
@@ -30,4 +30,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
